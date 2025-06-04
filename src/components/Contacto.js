@@ -31,7 +31,6 @@ function Contacto() {
         <p><strong>Lunes a Viernes:</strong> 8:00 AM - 6:00 PM</p>
         <p><strong>Sábados:</strong> 8:00 AM - 12:00 PM</p>
         <p><strong>Domingos:</strong> Cerrado</p>
-        <p><strong>Facebook:</strong> <a href="https://www.facebook.com/DIGILA15/" target="_blank" rel="noopener noreferrer">DIGILA15</a></p>
       </div>
     </section>
   );
