@@ -22,15 +22,15 @@ function Header() {
         </div>
         <nav>
           <ul>
-            <li><a href="#inicio">Inicio</a></li>
-            <li><a href="#servicios">Servicios</a></li>
-            <li><a href="#portafolio">Portafolio</a></li>
+            <li><a href="#inicio">INICIO</a></li>
+            <li><a href="#servicios">SERVICIOS</a></li>
+            <li><a href="#portafolio">PORTAFOLIO</a></li>
             <li>
               <a href={whatsappUrl} target="_blank" rel="noopener noreferrer">
-                Contacto
+                CONTACTO
               </a>
             </li>
-            <li><a href="#ubicacion">Ubicación</a></li>
+            <li><a href="#ubicacion">UBICACIÓN</a></li>
           </ul>
         </nav>
       </div>

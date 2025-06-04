@@ -9,7 +9,14 @@ function Footer() {
       <p>Carrera 15 # 6-92, Aguachica, Cesar, Colombia</p>
       <p>Teléfonos: 304 332 3095 - 300 763 1490</p>
       <div className="redes-sociales">
-        <a href="https://www.facebook.com/DIGILA15/" target="_blank" rel="noopener noreferrer">Facebook</a>
+        <a href="https://www.facebook.com/DIGILA15/" target="_blank" rel="noopener noreferrer">
+          <img 
+            src="/images/facebookIcon.png" 
+            alt="Facebook" 
+            className="facebook-icon"
+          />
+          Facebook
+        </a>
       </div>
     </footer>
   );

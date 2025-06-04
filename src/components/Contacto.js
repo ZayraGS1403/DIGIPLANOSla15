@@ -43,7 +43,7 @@ function Contacto() {
               href="mailto:argutlop@gmail.com?subject=Consulta sobre servicios DIGIPLANOS la 15"
               className="email-btn"
             >
-              <svg className="gmail-icon" viewBox="0 0 24 24" fill="currentColor">
+              <svg className='gmail-icon' viewBox="0 0 24 24" fill="currentColor">
                 <path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-.887.711-1.592 1.592-1.592L12 9.545l10.408-5.68A1.592 1.592 0 0 1 24 5.457z"/>
               </svg>
               argutlop@gmail.com
